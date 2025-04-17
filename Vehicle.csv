@@ -1,0 +1,51 @@
+vehicle_id,type,brand,model,capacity,plate_number,vehicle_category_id
+1,SUV,Walker-Fletcher,Model-898,6,04W GH9,2
+2,Mini,Smith Group,Model-238,5,542-WAF,3
+3,Mini,"Underwood, Stevenson and Guzman",Model-922,5,1-21781G,3
+4,Mini,"Prince, Braun and Garcia",Model-892,5,589 NGE,3
+5,SUV,Garcia PLC,Model-455,6,803-YYN,2
+6,Mini,"Sweeney, King and Fritz",Model-343,3,QGP 685,3
+7,Mini,Day Inc,Model-898,3,FBH 665,3
+8,SUV,Morrison-Jackson,Model-396,3,4SF7897,2
+9,Hatchback,"Williams, Stewart and Frye",Model-953,4,438-AQA,3
+10,Mini,Richard-Park,Model-570,3,01FI7,3
+11,Hatchback,Paul-Davis,Model-382,4,823JOV,3
+12,Hatchback,Greene-Rodriguez,Model-154,5,0C 2998B,3
+13,Sedan,"Sullivan, Shelton and Kennedy",Model-920,4,317NV,1
+14,SUV,Walker-Bernard,Model-277,6,775-YNE,2
+15,Mini,Snyder Group,Model-338,5,5FR I50,3
+16,SUV,Bennett-Harper,Model-398,3,9H R1786,2
+17,Sedan,Randall-Lewis,Model-355,4,7-8135V,1
+18,Mini,Jones-Howell,Model-301,4,5-55526,3
+19,Hatchback,Taylor-Thomas,Model-744,6,ALM 052,3
+20,Mini,Phillips-Lee,Model-136,4,67-1443W,3
+21,Mini,Jones Ltd,Model-675,3,ZFP 062,3
+22,Hatchback,Palmer-Ortega,Model-180,3,MQ8 F6I,3
+23,SUV,"Cuevas, Dennis and Hogan",Model-669,3,QAY 633,2
+24,Hatchback,Tucker-Perry,Model-323,6,465 MZT,3
+25,Mini,Arellano-Harrell,Model-663,3,859 3EV,3
+26,Sedan,"Navarro, Bailey and English",Model-594,4,WS1 P9T,1
+27,Mini,"Ramirez, Jones and Turner",Model-272,4,672-AYI,3
+28,Mini,Oliver LLC,Model-122,5,51LY837,3
+29,Sedan,May Group,Model-314,6,56W 297,1
+30,Sedan,Wilson-White,Model-222,5,WRO 471,1
+31,Sedan,"Wiggins, Esparza and Summers",Model-701,3,340-OEL,1
+32,Sedan,Mills-Adams,Model-242,6,Z44 1ZA,1
+33,SUV,Coleman and Sons,Model-114,4,9-47403J,2
+34,SUV,"Goodman, Johnson and Phillips",Model-978,3,577 SHR,2
+35,Mini,"Jones, Duran and Curtis",Model-593,3,3-G0665,3
+36,Hatchback,Farmer-Gonzalez,Model-137,5,63Z YK5,3
+37,Sedan,"Krueger, Maxwell and Lane",Model-829,4,582 IEI,1
+38,Hatchback,"Moss, Ramirez and Parrish",Model-898,3,108 BW0,3
+39,Hatchback,Pope Ltd,Model-766,6,QUV-030,3
+40,SUV,Washington Group,Model-138,3,NUB 787,2
+41,Hatchback,Gaines Ltd,Model-575,3,724 6ES,3
+42,Hatchback,Coffey-Vincent,Model-568,4,15-37931,3
+43,Mini,"Davidson, Turner and Lewis",Model-994,5,995I5,3
+44,Hatchback,Lee-Harmon,Model-553,4,204 LRQ,3
+45,Mini,Phillips-Ayers,Model-851,5,52W I08,3
+46,Hatchback,"Bryant, Burns and Harris",Model-945,5,ZMW 225,3
+47,Sedan,Walter and Sons,Model-364,6,BJ 93451,1
+48,SUV,"Vargas, Estes and Thompson",Model-636,4,SJV R02,2
+49,SUV,"Nunez, Romero and Garcia",Model-708,3,V76-HRH,2
+50,Mini,"Snow, Castro and Green",Model-615,3,69K K13,3
